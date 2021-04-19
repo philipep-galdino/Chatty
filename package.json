@@ -1,0 +1,23 @@
+{
+  "name": "Chatty",
+  "version": "1.0.0",
+  "description": "Chatty Server Application from Rocketseat's NLW no.5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipep-galdino/Chatty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipep-galdino/Chatty/issues"
+  },
+  "homepage": "https://github.com/philipep-galdino/Chatty#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
